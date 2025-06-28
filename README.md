@@ -3,16 +3,34 @@ A Power BI dashboard for analyzing mobile sales data by brand, model, payment me
 
 # 📊 Mobile Sales Dashboard
 
-A Power BI dashboard to visualize and analyze mobile phone sales data.
+This project is a Power BI dashboard designed to analyze and visualize mobile phone sales data. It provides insights into sales performance by brand, model, city, payment method, and customer behavior.
 
-## 🔍 Features
-- Total Sales, Quantity, and Transactions
-- Sales by City and Month
-- Sales by Brand and Mobile Model
-- Transaction breakdown by Payment Method
-- Customer Ratings Visualization
-- MTD Report
-- Same period Last Year Report
+---
+
+## 🔍 Key Insights
+
+- **Total Sales**
+- **Total Quantity Sold** 
+- **Total Transactions**
+- **Average Price per Unit**
+
+### Dashboard Features:
+
+- 📌 **Sales by City** – View geographic distribution of mobile sales across Indian cities.
+- 📆 **Monthly Trends** – Track quantity sold month-by-month.
+- 💳 **Payment Analysis** – Pie chart showing UPI, credit card, cash, and debit card usage.
+- 📱 **Top-Selling Models** – iPhone SE, OnePlus Nord, Galaxy Note 20, etc.
+- ⭐ **Customer Ratings** – Split by "Good", "Poor", and "Average".
+- 🕒 **Sales by Day Name** – Understand which days of the week perform best.
+
+---
+
+## 📁 Project Structure
+
+mobile-sales-dashboard/
+│
+├── Mobile_Sales_Report.pbix # Main Power BI file
+├── README.md # Project documentation
 
 
 ## 📁 Files
